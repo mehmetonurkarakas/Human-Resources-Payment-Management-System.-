@@ -1,0 +1,12 @@
+Team with name Team 1 added.
+InvalidCommandException! Message= There is no manager with name Senay Yuce.
+Team with name Team 3 added.
+InvalidCommandException! Message= There is no employee with name Burak Erdogan.
+InvalidCommandException! Message= There is no employee with name Hasan Arslan.
+Team with name Team 6 added.
+Team: Team 1 - Manager: Muhammet Basturk - Members: Enis Babaoglu, Sadi Oncel, Senay Yuce, Yasemin Kilicli, Yesim Ozbey
+InvalidCommandException! Message= Team with name Team 2 not found.
+Team: Team 3 - Manager: Suna Veli - Members: Enis Babaoglu, Sadi Oncel, Yasemin Kilicli, Yesim Ozbey
+InvalidCommandException! Message= Team with name Team 4 not found.
+InvalidCommandException! Message= Team with name Team 5 not found.
+Team: Team 6 - Manager: Sahin Gunaydin - Members: Aylin Boran, Cemile Altug, Enis Babaoglu, Hilal Boran, Yasemin Kilicli

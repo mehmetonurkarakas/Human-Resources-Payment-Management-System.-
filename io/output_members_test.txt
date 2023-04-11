@@ -1,0 +1,42 @@
+Staff member Burak Erdogan added to company.
+InvalidCommandException! Message= Staff member Mehtap Kubat already exists in company.
+Staff member Ali Aydost added to company.
+Staff member Merve Kizil added to company.
+InvalidCommandException! Message= Staff member Aylin Boran already exists in company.
+Staff member Ayse Ozyurek added to company.
+InvalidCommandException! Message= Staff member Ali Eren does not exist in company.
+InvalidCommandException! Message= Staff member Merve Kizilcahamam does not exist in company.
+Staff member Ayse Ozyurek removed from company.
+Ali Aydost => Manager
+Aylin Boran => Employee
+Aylin Ozmen => HourlyWorker
+Burak Erdogan => Volunteer
+Burak Tas => Employee
+Cemile Altug => HourlyWorker
+Derya Karaman => Volunteer
+Ecrin Batuk => HourlyWorker
+Enis Babaoglu => Employee
+Erol Batuk => Volunteer
+Esma Ozyurek => Employee
+Hasan Arslan => Volunteer
+Hilal Boran => Employee
+Mahir Dicle => Employee
+Mehtap Kubat => Employee
+Merve Kizil => Employee
+Meryem Tas => Employee
+Metin Abasiyanik => HourlyWorker
+Metin Ince => HourlyWorker
+Muhammet Basturk => Manager
+Muhammet Ozmen => HourlyWorker
+Mustafa Basturk => Volunteer
+Mustafa Kahya => Employee
+Nail Tas => Employee
+Sadi Aydogan => Employee
+Sadi Oncel => Employee
+Sahin Gunaydin => Manager
+Senay Yuce => Employee
+Suna Veli => Manager
+Yagmur Boran => Volunteer
+Yasemin Kilicli => Employee
+Yesim Ozbey => Employee
+Zafer Kilicli => Volunteer
